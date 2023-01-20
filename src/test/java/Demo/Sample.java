@@ -9,4 +9,10 @@ public class Sample {
 		System.out.println("this is sample from lead");
 	}
 
+
+@Test
+public void demoTest() {
+	System.out.println("this is demo");
+}
+	
 }
